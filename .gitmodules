@@ -1,0 +1,3 @@
+[submodule "skills/stock-technical-analysis"]
+	path = skills/stock-technical-analysis
+	url = https://github.com/suvlife/stock-technical-analysis-v2.git

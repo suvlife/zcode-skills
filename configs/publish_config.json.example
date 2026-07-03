@@ -1,0 +1,11 @@
+{
+  "ghost": {
+    "url": "https://your-blog.com",
+    "admin_api_key": "YOUR_GHOST_ADMIN_API_KEY_ID:YOUR_GHOST_ADMIN_API_KEY_SECRET"
+  },
+  "feishu": {
+    "app_id": "YOUR_FEISHU_APP_ID",
+    "app_secret": "YOUR_FEISHU_APP_SECRET",
+    "owner_open_id": "YOUR_FEISHU_OWNER_OPEN_ID"
+  }
+}

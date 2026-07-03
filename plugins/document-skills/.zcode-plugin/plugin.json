@@ -1,0 +1,8 @@
+{
+  "name": "document-skills",
+  "version": "0.1.0",
+  "description": "Built-in DOCX and PDF document production skills for ZCode.",
+  "author": { "name": "Z.ai" },
+  "license": "Proprietary",
+  "skills": "skills"
+}

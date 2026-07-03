@@ -1,0 +1,24 @@
+# Configs with secrets (never commit!)
+**/config.json
+!**/config.json.example
+**/.publish_config.json
+**/zcode_env.sh
+
+# Python
+__pycache__/
+*.pyc
+.cache/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
